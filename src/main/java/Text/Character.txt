@@ -1,0 +1,5 @@
+Statement
+PreparedStatement
+CallableStatement
+RETURN_GENERAGTE_KEKS
+class.getResourceAsStream

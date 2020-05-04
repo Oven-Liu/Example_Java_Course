@@ -1,0 +1,3 @@
+pattern.factory.Student
+name=уехЩ
+age=25
